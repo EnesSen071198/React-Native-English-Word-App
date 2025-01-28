@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "english": "Accomplish",
+    "turkish": "Başarmak",
+    "description": "To achieve or complete successfully.",
+    "pronunciation": "əˈkɒm.plɪʃ"
+  },
+  {
+    "id": "2",
+    "english": "Complicated",
+    "turkish": "Karmaşık",
+    "description": "Consisting of many interconnecting parts or elements; intricate.",
+    "pronunciation": "ˈkɒm.plɪ.keɪ.tɪd"
+  },
+  {
+    "id": "3",
+    "english": "Discussion",
+    "turkish": "Tartışma",
+    "description": "The action or process of talking about something in order to reach a decision or to exchange ideas.",
+    "pronunciation": "dɪˈskʌʃ.ən"
+  },
+  {
+    "id": "4",
+    "english": "Achievement",
+    "turkish": "Başarı",
+    "description": "Something accomplished, especially by superior ability, special effort, great courage, etc.",
+    "pronunciation": "əˈtʃiːv.mənt"
+  },
+  {
+    "id": "5",
+    "english": "Behavior",
+    "turkish": "Davranış",
+    "description": "The way in which one acts or conducts oneself, especially towards others.",
+    "pronunciation": "bɪˈheɪ.vjər"
+  },
+  {
+    "id": "6",
+    "english": "Perspective",
+    "turkish": "Bakış açısı",
+    "description": "A particular attitude towards or way of regarding something; a point of view.",
+    "pronunciation": "pəˈspek.tɪv"
+  },
+  {
+    "id": "7",
+    "english": "Significant",
+    "turkish": "Önemli",
+    "description": "Sufficiently great or important to be worthy of attention; noteworthy.",
+    "pronunciation": "sɪɡˈnɪf.ɪ.kənt"
+  },
+  {
+    "id": "8",
+    "english": "Environment",
+    "turkish": "Çevre",
+    "description": "The natural world, as a whole or in a particular geographical area, especially as affected by human activity.",
+    "pronunciation": "ɪnˈvaɪ.rən.mənt"
+  },
+  {
+    "id": "9",
+    "english": "Interpret",
+    "turkish": "Yorumlamak",
+    "description": "To explain the meaning of (information or actions).",
+    "pronunciation": "ɪnˈtɜː.prɪt"
+  },
+  {
+    "id": "10",
+    "english": "Reliable",
+    "turkish": "Güvenilir",
+    "description": "Consistently good in quality or performance; able to be trusted.",
+    "pronunciation": "rɪˈlaɪ.ə.bl̩"
+  },
+  {
+    "id": "11",
+    "english": "Criticize",
+    "turkish": "Eleştirmek",
+    "description": "Indicate the faults of (someone or something) in a disapproving way.",
+    "pronunciation": "ˈkrɪt.ɪ.saɪz"
+  },
+  {
+    "id": "12",
+    "english": "Resource",
+    "turkish": "Kaynak",
+    "description": "A stock or supply of materials or assets that can be drawn on in order to function effectively.",
+    "pronunciation": "rɪˈzɔːs"
+  },
+  {
+    "id": "13",
+    "english": "Development",
+    "turkish": "Gelişim",
+    "description": "The process of developing or being developed.",
+    "pronunciation": "dɪˈvel.əp.mənt"
+  },
+  {
+    "id": "14",
+    "english": "Interaction",
+    "turkish": "Etkileşim",
+    "description": "A mutual or reciprocal action or influence.",
+    "pronunciation": "ˌɪn.tərˈæk.ʃən"
+  },
+  {
+    "id": "15",
+    "english": "Predictable",
+    "turkish": "Tahmin edilebilir",
+    "description": "Able to be predicted.",
+    "pronunciation": "prɪˈdɪk.tə.bl̩"
+  },
+  {
+    "id": "16",
+    "english": "Explanation",
+    "turkish": "Açıklama",
+    "description": "A statement or account that makes something clear.",
+    "pronunciation": "ˌek.spləˈneɪ.ʃən"
+  },
+  {
+    "id": "17",
+    "english": "Investigation",
+    "turkish": "Soruşturma",
+    "description": "The action of investigating something or someone; formal or systematic examination or research.",
+    "pronunciation": "ɪnˌves.tɪˈɡeɪ.ʃən"
+  },
+  {
+    "id": "18",
+    "english": "Sufficient",
+    "turkish": "Yeterli",
+    "description": "Enough; adequate.",
+    "pronunciation": "səˈfɪʃ.ənt"
+  },
+  {
+    "id": "19",
+    "english": "Strategy",
+    "turkish": "Strateji",
+    "description": "A plan of action or policy designed to achieve a major or overall aim.",
+    "pronunciation": "ˈstræt.ə.dʒi"
+  },
+  {
+    "id": "20",
+    "english": "Communication",
+    "turkish": "İletişim",
+    "description": "The imparting or exchanging of information or news.",
+    "pronunciation": "kəˌmjuː.nɪˈkeɪ.ʃən"
+  },
+  {
+    "id": "21",
+    "english": "Technique",
+    "turkish": "Teknik",
+    "description": "A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure.",
+    "pronunciation": "tekˈniːk"
+  },
+  {
+    "id": "22",
+    "english": "Tradition",
+    "turkish": "Gelenek",
+    "description": "The transmission of customs or beliefs from generation to generation.",
+    "pronunciation": "trəˈdɪʃ.ən"
+  },
+  {
+    "id": "23",
+    "english": "Achievement",
+    "turkish": "Başarı",
+    "description": "Something accomplished, especially by superior ability, special effort, great courage, etc.",
+    "pronunciation": "əˈtʃiːv.mənt"
+  },
+  {
+    "id": "24",
+    "english": "Criticize",
+    "turkish": "Eleştirmek",
+    "description": "Indicate the faults of (someone or something) in a disapproving way.",
+    "pronunciation": "ˈkrɪt.ɪ.saɪz"
+  },
+  {
+    "id": "25",
+    "english": "Resource",
+    "turkish": "Kaynak",
+    "description": "A stock or supply of materials or assets that can be drawn on in order to function effectively.",
+    "pronunciation": "rɪˈzɔːs"
+  },
+  {
+    "id": "26",
+    "english": "Development",
+    "turkish": "Gelişim",
+    "description": "The process of developing or being developed.",
+    "pronunciation": "dɪˈvel.əp.mənt"
+  },
+  {
+    "id": "27",
+    "english": "Predictable",
+    "turkish": "Tahmin edilebilir",
+    "description": "Able to be predicted.",
+    "pronunciation": "prɪˈdɪk.tə.bl̩"
+  },
+  {
+    "id": "28",
+    "english": "Explanation",
+    "turkish": "Açıklama",
+    "description": "A statement or account that makes something clear.",
+    "pronunciation": "ˌek.spləˈneɪ.ʃən"
+  },
+  {
+    "id": "29",
+    "english": "Investigation",
+    "turkish": "Soruşturma",
+    "description": "The action of investigating something or someone; formal or systematic examination or research.",
+    "pronunciation": "ɪnˌves.tɪˈɡeɪ.ʃən"
+  },
+  {
+    "id": "30",
+    "english": "Sufficient",
+    "turkish": "Yeterli",
+    "description": "Enough; adequate.",
+    "pronunciation": "səˈfɪʃ.ənt"
+  }
+]

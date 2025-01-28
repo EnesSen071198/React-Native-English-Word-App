@@ -16,7 +16,7 @@ import Animated, {
 import * as Speech from "expo-speech"; // Expo Speech API
 import { useNavigation } from "@react-navigation/native";
 
-import A1Words from "../data/A1Words.json"; // JSON dosyasını buradan alıyoruz
+import C1Words from "../data/C1Words.json"; // JSON dosyasını buradan alıyoruz
 import IknowWord from "../components/IknowWord";
 import IwillLearn from "../components/IwillLearn";
 import Background from "../assets/background.jpg";
@@ -149,7 +149,7 @@ const flipCardStyles = StyleSheet.create({
   }
 });
 
-export default function A1ContentScreen() {
+export default function C1ContentScreen() {
   const isFlipped = useSharedValue(0); // Başlangıç değeri 0
   const [loadedWords, setLoadedWords] = useState([]);
   const [randomWord, setRandomWord] = useState(null);
@@ -158,8 +158,8 @@ export default function A1ContentScreen() {
   const navigation = useNavigation();
 
   useEffect(() => {
-    setLoadedWords(A1Words); // JSON'dan kelimeleri yükle
-    setRandomWord(A1Words[Math.floor(Math.random() * A1Words.length)]); // Rastgele kelime seç
+    setLoadedWords(C1Words); // JSON'dan kelimeleri yükle
+    setRandomWord(C1Words[Math.floor(Math.random() * C1Words.length)]); // Rastgele kelime seç
   }, []);
 
   const handlePress = () => {
@@ -172,12 +172,12 @@ export default function A1ContentScreen() {
 
   const handleIknowWord = () => {
     setKnownWords([...knownWords, randomWord]);
-    setRandomWord(A1Words[Math.floor(Math.random() * A1Words.length)]);
+    setRandomWord(C1Words[Math.floor(Math.random() * C1Words.length)]);
   };
 
   const handleIwillLearn = () => {
     setLearningWords([...learningWords, randomWord]);
-    setRandomWord(A1Words[Math.floor(Math.random() * A1Words.length)]);
+    setRandomWord(C1Words[Math.floor(Math.random() * C1Words.length)]);
   };
 
   return (

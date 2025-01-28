@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "english": "Advice",
+    "turkish": "Tavsiye",
+    "description": "Guidance or recommendations concerning prudent future action.",
+    "pronunciation": "ədˈvaɪs"
+  },
+  {
+    "id": "2",
+    "english": "Journey",
+    "turkish": "Yolculuk",
+    "description": "The act of traveling from one place to another, typically over a long distance.",
+    "pronunciation": "ˈdʒɜː.ni"
+  },
+  {
+    "id": "3",
+    "english": "Memory",
+    "turkish": "Hafıza",
+    "description": "The faculty by which the mind stores and remembers information.",
+    "pronunciation": "ˈmem.ər.i"
+  },
+  {
+    "id": "4",
+    "english": "Nature",
+    "turkish": "Doğa",
+    "description": "The physical world and everything in it that is not made by people.",
+    "pronunciation": "ˈneɪ.tʃər"
+  },
+  {
+    "id": "5",
+    "english": "Pleasure",
+    "turkish": "Zevk",
+    "description": "A feeling of happy satisfaction and enjoyment.",
+    "pronunciation": "ˈpleʒ.ər"
+  },
+  {
+    "id": "6",
+    "english": "Challenge",
+    "turkish": "Meydan okuma",
+    "description": "A task or situation that tests someone's abilities.",
+    "pronunciation": "ˈʧæl.ɪnʤ"
+  },
+  {
+    "id": "7",
+    "english": "Volunteer",
+    "turkish": "Gönüllü",
+    "description": "A person who freely offers to take part in an enterprise or undertake a task.",
+    "pronunciation": "ˌvɒl.ənˈtɪər"
+  },
+  {
+    "id": "8",
+    "english": "Community",
+    "turkish": "Topluluk",
+    "description": "A group of people living in the same place or having a particular characteristic in common.",
+    "pronunciation": "kəˈmjuː.nɪ.ti"
+  },
+  {
+    "id": "9",
+    "english": "Opportunity",
+    "turkish": "Fırsat",
+    "description": "A set of circumstances that makes it possible to do something.",
+    "pronunciation": "ˌɒp.əˈtjuː.nɪ.ti"
+  },
+  {
+    "id": "10",
+    "english": "Environment",
+    "turkish": "Çevre",
+    "description": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+    "pronunciation": "ɪnˈvaɪ.rən.mənt"
+  },
+  {
+    "id": "11",
+    "english": "Experience",
+    "turkish": "Deneyim",
+    "description": "Practical contact with and observation of facts or events.",
+    "pronunciation": "ɪkˈspɪə.ri.əns"
+  },
+  {
+    "id": "12",
+    "english": "Festival",
+    "turkish": "Festival",
+    "description": "A day or period of celebration, typically for religious reasons.",
+    "pronunciation": "ˈfɛs.tɪ.vəl"
+  },
+  {
+    "id": "13",
+    "english": "Technology",
+    "turkish": "Teknoloji",
+    "description": "The application of scientific knowledge for practical purposes.",
+    "pronunciation": "tɛkˈnɒl.ə.dʒi"
+  },
+  {
+    "id": "14",
+    "english": "Economy",
+    "turkish": "Ekonomi",
+    "description": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
+    "pronunciation": "ɪˈkɒn.ə.mi"
+  },
+  {
+    "id": "15",
+    "english": "Government",
+    "turkish": "Hükümet",
+    "description": "The governing body of a nation, state, or community.",
+    "pronunciation": "ˈɡʌv.ən.mənt"
+  },
+  {
+    "id": "16",
+    "english": "Culture",
+    "turkish": "Kültür",
+    "description": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+    "pronunciation": "ˈkʌl.tʃər"
+  },
+  {
+    "id": "17",
+    "english": "History",
+    "turkish": "Tarih",
+    "description": "The study of past events, particularly in human affairs.",
+    "pronunciation": "ˈhɪs.tər.i"
+  },
+  {
+    "id": "18",
+    "english": "Language",
+    "turkish": "Dil",
+    "description": "The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.",
+    "pronunciation": "ˈlæŋ.ɡwɪdʒ"
+  },
+  {
+    "id": "19",
+    "english": "Science",
+    "turkish": "Bilim",
+    "description": "The intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment.",
+    "pronunciation": "ˈsaɪəns"
+  },
+  {
+    "id": "20",
+    "english": "Society",
+    "turkish": "Toplum",
+    "description": "The aggregate of people living together in a more or less ordered community.",
+    "pronunciation": "səˈsaɪə.ti"
+  },
+  {
+    "id": "21",
+    "english": "Tradition",
+    "turkish": "Gelenek",
+    "description": "The transmission of customs or beliefs from generation to generation.",
+    "pronunciation": "trəˈdɪʃ.ən"
+  },
+  {
+    "id": "22",
+    "english": "Universe",
+    "turkish": "Evren",
+    "description": "All existing matter and space considered as a whole; the cosmos.",
+    "pronunciation": "ˈjuː.nɪ.vɜːs"
+  },
+  {
+    "id": "23",
+    "english": "Volunteer",
+    "turkish": "Gönüllü",
+    "description": "A person who freely offers to take part in an enterprise or undertake a task.",
+    "pronunciation": "ˌvɒl.ənˈtɪər"
+  },
+  {
+    "id": "24",
+    "english": "Journey",
+    "turkish": "Yolculuk",
+    "description": "The act of traveling from one place to another, typically over a long distance.",
+    "pronunciation": "ˈdʒɜː.ni"
+  },
+  {
+    "id": "25",
+    "english": "Memory",
+    "turkish": "Hafıza",
+    "description": "The faculty by which the mind stores and remembers information.",
+    "pronunciation": "ˈmem.ər.i"
+  },
+  {
+    "id": "26",
+    "english": "Nature",
+    "turkish": "Doğa",
+    "description": "The physical world and everything in it that is not made by people.",
+    "pronunciation": "ˈneɪ.tʃər"
+  },
+  {
+    "id": "27",
+    "english": "Pleasure",
+    "turkish": "Zevk",
+    "description": "A feeling of happy satisfaction and enjoyment.",
+    "pronunciation": "ˈpleʒ.ər"
+  },
+  {
+    "id": "28",
+    "english": "Challenge",
+    "turkish": "Meydan okuma",
+    "description": "A task or situation that tests someone's abilities.",
+    "pronunciation": "ˈʧæl.ɪnʤ"
+  },
+  {
+    "id": "29",
+    "english": "Volunteer",
+    "turkish": "Gönüllü",
+    "description": "A person who freely offers to take part in an enterprise or undertake a task.",
+    "pronunciation": "ˌvɒl.ənˈtɪər"
+  },
+  {
+    "id": "30",
+    "english": "Community",
+    "turkish": "Topluluk",
+    "description": "A group of people living in the same place or having a particular characteristic in common.",
+    "pronunciation": "kəˈmjuː.nɪ.ti"
+  }
+]

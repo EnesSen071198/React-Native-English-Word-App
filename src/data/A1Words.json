@@ -5,5 +5,208 @@
     "turkish": "Merhaba",
     "description": "A greeting used when meeting someone.",
     "pronunciation": "həˈlō"
+  },
+  {
+    "id": "2",
+    "english": "Car",
+    "turkish": "Araba",
+    "description": "A motor vehicle with four wheels.",
+    "pronunciation": "kɑːr"
+  },
+  {
+    "id": "3",
+    "english": "Apple",
+    "turkish": "Elma",
+    "description": "A fruit with red or green skin.",
+    "pronunciation": "ˈæp.əl"
+  },
+  {
+    "id": "4",
+    "english": "Book",
+    "turkish": "Kitap",
+    "description": "A set of written or printed pages bound together.",
+    "pronunciation": "bʊk"
+  },
+  {
+    "id": "5",
+    "english": "Cat",
+    "turkish": "Kedi",
+    "description": "A small domesticated carnivorous mammal.",
+    "pronunciation": "kæt"
+  },
+  {
+    "id": "6",
+    "english": "Dog",
+    "turkish": "Köpek",
+    "description": "A domesticated carnivorous mammal.",
+    "pronunciation": "dɔːɡ"
+  },
+  {
+    "id": "7",
+    "english": "House",
+    "turkish": "Ev",
+    "description": "A building for human habitation.",
+    "pronunciation": "haʊs"
+  },
+  {
+    "id": "8",
+    "english": "Tree",
+    "turkish": "Ağaç",
+    "description": "A woody perennial plant.",
+    "pronunciation": "triː"
+  },
+  {
+    "id": "9",
+    "english": "Water",
+    "turkish": "Su",
+    "description": "A transparent, tasteless, odorless, and nearly colorless chemical substance.",
+    "pronunciation": "ˈwɔː.tər"
+  },
+  {
+    "id": "10",
+    "english": "Sun",
+    "turkish": "Güneş",
+    "description": "The star at the center of the solar system.",
+    "pronunciation": "sʌn"
+  },
+  {
+    "id": "11",
+    "english": "Moon",
+    "turkish": "Ay",
+    "description": "The natural satellite of the Earth.",
+    "pronunciation": "muːn"
+  },
+  {
+    "id": "12",
+    "english": "Star",
+    "turkish": "Yıldız",
+    "description": "A luminous point in the night sky.",
+    "pronunciation": "stɑːr"
+  },
+  {
+    "id": "13",
+    "english": "Pen",
+    "turkish": "Kalem",
+    "description": "A writing instrument.",
+    "pronunciation": "pɛn"
+  },
+  {
+    "id": "14",
+    "english": "Paper",
+    "turkish": "Kağıt",
+    "description": "A material made from cellulose pulp.",
+    "pronunciation": "ˈpeɪ.pər"
+  },
+  {
+    "id": "15",
+    "english": "Table",
+    "turkish": "Masa",
+    "description": "A piece of furniture with a flat top.",
+    "pronunciation": "ˈteɪ.bəl"
+  },
+  {
+    "id": "16",
+    "english": "Chair",
+    "turkish": "Sandalye",
+    "description": "A piece of furniture for one person to sit on.",
+    "pronunciation": "ʧɛr"
+  },
+  {
+    "id": "17",
+    "english": "Window",
+    "turkish": "Pencere",
+    "description": "An opening in the wall of a building.",
+    "pronunciation": "ˈwɪn.doʊ"
+  },
+  {
+    "id": "18",
+    "english": "Door",
+    "turkish": "Kapı",
+    "description": "A movable barrier used to close an opening.",
+    "pronunciation": "dɔr"
+  },
+  {
+    "id": "19",
+    "english": "Phone",
+    "turkish": "Telefon",
+    "description": "A device for voice communication.",
+    "pronunciation": "foʊn"
+  },
+  {
+    "id": "20",
+    "english": "Computer",
+    "turkish": "Bilgisayar",
+    "description": "An electronic device for storing and processing data.",
+    "pronunciation": "kəmˈpjuː.tər"
+  },
+  {
+    "id": "21",
+    "english": "Bed",
+    "turkish": "Yatak",
+    "description": "A piece of furniture for sleeping on.",
+    "pronunciation": "bɛd"
+  },
+  {
+    "id": "22",
+    "english": "Shoes",
+    "turkish": "Ayakkabılar",
+    "description": "A covering for the foot.",
+    "pronunciation": "ʃuːz"
+  },
+  {
+    "id": "23",
+    "english": "Hat",
+    "turkish": "Şapka",
+    "description": "A head covering.",
+    "pronunciation": "hæt"
+  },
+  {
+    "id": "24",
+    "english": "Clock",
+    "turkish": "Saat",
+    "description": "A device for measuring and indicating time.",
+    "pronunciation": "klɑk"
+  },
+  {
+    "id": "25",
+    "english": "Bag",
+    "turkish": "Çanta",
+    "description": "A container made of flexible material.",
+    "pronunciation": "bæg"
+  },
+  {
+    "id": "26",
+    "english": "Food",
+    "turkish": "Yemek",
+    "description": "Substances eaten for nutritional support.",
+    "pronunciation": "fuːd"
+  },
+  {
+    "id": "27",
+    "english": "Fruit",
+    "turkish": "Meyve",
+    "description": "The sweet and fleshy product of a tree or other plant.",
+    "pronunciation": "fruːt"
+  },
+  {
+    "id": "28",
+    "english": "Vegetable",
+    "turkish": "Sebze",
+    "description": "A plant or part of a plant used as food.",
+    "pronunciation": "ˈvɛdʒ.tə.bəl"
+  },
+  {
+    "id": "29",
+    "english": "Milk",
+    "turkish": "Süt",
+    "description": "A white liquid produced by the mammary glands of mammals.",
+    "pronunciation": "mɪlk"
+  },
+  {
+    "id": "30",
+    "english": "Bread",
+    "turkish": "Ekmek",
+    "description": "A staple food made from flour and water.",
+    "pronunciation": "brɛd"
   }
 ]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "english": "Journey",
+    "turkish": "Yolculuk",
+    "description": "An act of traveling from one place to another.",
+    "pronunciation": "ˈdʒɜːrni"
+  },
+  {
+    "id": "2",
+    "english": "Mountain",
+    "turkish": "Dağ",
+    "description": "A large natural elevation of the earth's surface.",
+    "pronunciation": "ˈmaʊntən"
+  },
+  {
+    "id": "3",
+    "english": "Neighbor",
+    "turkish": "Komşu",
+    "description": "A person living near or next door to the speaker.",
+    "pronunciation": "ˈneɪbər"
+  },
+  {
+    "id": "4",
+    "english": "Library",
+    "turkish": "Kütüphane",
+    "description": "A place where books are kept.",
+    "pronunciation": "ˈlaɪbrəri"
+  },
+  {
+    "id": "5",
+    "english": "Patient",
+    "turkish": "Sabırlı",
+    "description": "Able to accept or tolerate delays without getting angry.",
+    "pronunciation": "ˈpeɪʃənt"
+  },
+  {
+    "id": "6",
+    "english": "Airport",
+    "turkish": "Havaalanı",
+    "description": "A complex of runways and buildings for the takeoff and landing of aircraft.",
+    "pronunciation": "ˈeərpɔːrt"
+  },
+  {
+    "id": "7",
+    "english": "Bakery",
+    "turkish": "Fırın",
+    "description": "A place where bread and cakes are made or sold.",
+    "pronunciation": "ˈbeɪkəri"
+  },
+  {
+    "id": "8",
+    "english": "Concert",
+    "turkish": "Konser",
+    "description": "A musical performance given in public.",
+    "pronunciation": "ˈkɒnsərt"
+  },
+  {
+    "id": "9",
+    "english": "Pencil",
+    "turkish": "Kalem",
+    "description": "An instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance.",
+    "pronunciation": "ˈpɛnsl"
+  },
+  {
+    "id": "10",
+    "english": "Teacher",
+    "turkish": "Öğretmen",
+    "description": "A person who teaches, especially in a school.",
+    "pronunciation": "ˈtiːʧər"
+  },
+  {
+    "id": "11",
+    "english": "Weather",
+    "turkish": "Hava durumu",
+    "description": "The state of the atmosphere at a particular place and time.",
+    "pronunciation": "ˈwɛðər"
+  },
+  {
+    "id": "12",
+    "english": "Building",
+    "turkish": "Bina",
+    "description": "A structure with a roof and walls, such as a house, school, store, or factory.",
+    "pronunciation": "ˈbɪldɪŋ"
+  },
+  {
+    "id": "13",
+    "english": "Bridge",
+    "turkish": "Köprü",
+    "description": "A structure carrying a road, path, or railroad across a river, road, or other obstacles.",
+    "pronunciation": "brɪdʒ"
+  },
+  {
+    "id": "14",
+    "english": "Circle",
+    "turkish": "Daire",
+    "description": "A round plane figure whose boundary consists of points equidistant from the center.",
+    "pronunciation": "ˈsɜːrkl"
+  },
+  {
+    "id": "15",
+    "english": "Friendly",
+    "turkish": "Arkadaş canlısı",
+    "description": "Kind and pleasant.",
+    "pronunciation": "ˈfrɛndli"
+  },
+  {
+    "id": "16",
+    "english": "Garden",
+    "turkish": "Bahçe",
+    "description": "A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+    "pronunciation": "ˈɡɑːrdən"
+  },
+  {
+    "id": "17",
+    "english": "Hiking",
+    "turkish": "Doğa yürüyüşü",
+    "description": "A long walk, especially in the country or wilderness.",
+    "pronunciation": "ˈhaɪkɪŋ"
+  },
+  {
+    "id": "18",
+    "english": "Island",
+    "turkish": "Ada",
+    "description": "A piece of land surrounded by water.",
+    "pronunciation": "ˈaɪlənd"
+  },
+  {
+    "id": "19",
+    "english": "Language",
+    "turkish": "Dil",
+    "description": "The method of human communication, either spoken or written.",
+    "pronunciation": "ˈlæŋɡwɪdʒ"
+  },
+  {
+    "id": "20",
+    "english": "Mirror",
+    "turkish": "Ayna",
+    "description": "A reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.",
+    "pronunciation": "ˈmɪrər"
+  },
+  {
+    "id": "21",
+    "english": "Nature",
+    "turkish": "Doğa",
+    "description": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features.",
+    "pronunciation": "ˈneɪʧər"
+  },
+  {
+    "id": "22",
+    "english": "Ocean",
+    "turkish": "Okyanus",
+    "description": "A very large expanse of sea.",
+    "pronunciation": "ˈoʊʃən"
+  },
+  {
+    "id": "23",
+    "english": "Picture",
+    "turkish": "Resim",
+    "description": "A painting, drawing, photograph, or other image.",
+    "pronunciation": "ˈpɪkʧər"
+  },
+  {
+    "id": "24",
+    "english": "Question",
+    "turkish": "Soru",
+    "description": "A sentence worded or expressed so as to elicit information.",
+    "pronunciation": "ˈkwɛsʧən"
+  },
+  {
+    "id": "25",
+    "english": "Rainbow",
+    "turkish": "Gökkuşağı",
+    "description": "A meteorological phenomenon that is caused by reflection, refraction and dispersion of light in water droplets resulting in a spectrum of light appearing in the sky.",
+    "pronunciation": "ˈreɪnboʊ"
+  },
+  {
+    "id": "26",
+    "english": "Station",
+    "turkish": "İstasyon",
+    "description": "A place on a public transport route where vehicles regularly stop so that passengers can get on or off.",
+    "pronunciation": "ˈsteɪʃən"
+  },
+  {
+    "id": "27",
+    "english": "Travel",
+    "turkish": "Seyahat",
+    "description": "Make a journey, typically of some length or abroad.",
+    "pronunciation": "ˈtrævəl"
+  },
+  {
+    "id": "28",
+    "english": "Universe",
+    "turkish": "Evren",
+    "description": "All existing matter and space considered as a whole; the cosmos.",
+    "pronunciation": "ˈjuːnɪˌvɜːrs"
+  },
+  {
+    "id": "29",
+    "english": "Victory",
+    "turkish": "Zafer",
+    "description": "An act of defeating an enemy or opponent in a battle, game, or other competition.",
+    "pronunciation": "ˈvɪktəri"
+  },
+  {
+    "id": "30",
+    "english": "Winter",
+    "turkish": "Kış",
+    "description": "The coldest season of the year.",
+    "pronunciation": "ˈwɪntər"
+  }
+]
