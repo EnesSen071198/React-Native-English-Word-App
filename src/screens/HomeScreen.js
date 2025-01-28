@@ -76,7 +76,12 @@ const HomeScreen = () => {
       case "B2":
         navigation.navigate("B2Content");
         break;
-      // Add more cases if needed
+      case "C1":
+        navigation.navigate("C1Content");
+        break;
+      case "C2":
+        navigation.navigate("C2Content");
+        break;
       default:
         break;
     }

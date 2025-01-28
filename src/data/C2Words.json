@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "english": "Ambiguous",
+    "turkish": "Belirsiz",
+    "description": "Open to more than one interpretation; not having one obvious meaning.",
+    "pronunciation": "æmˈbɪɡ.ju.əs"
+  },
+  {
+    "id": "2",
+    "english": "Consequence",
+    "turkish": "Sonuç",
+    "description": "A result or effect, typically one that is unwelcome or unpleasant.",
+    "pronunciation": "ˈkɒn.sɪ.kwəns"
+  },
+  {
+    "id": "3",
+    "english": "Notion",
+    "turkish": "Kavram",
+    "description": "A conception of or belief about something.",
+    "pronunciation": "ˈnoʊ.ʃən"
+  },
+  {
+    "id": "4",
+    "english": "Perceive",
+    "turkish": "Algılamak",
+    "description": "Become aware or conscious of something; come to realize or understand.",
+    "pronunciation": "pərˈsiːv"
+  },
+  {
+    "id": "5",
+    "english": "Comprehensive",
+    "turkish": "Kapsamlı",
+    "description": "Complete and including all or nearly all elements or aspects of something.",
+    "pronunciation": "ˌkɒm.prɪˈhen.sɪv"
+  },
+  {
+    "id": "6",
+    "english": "Contradict",
+    "turkish": "Çelişmek",
+    "description": "Deny the truth of (a statement), especially by asserting the opposite.",
+    "pronunciation": "ˌkɒn.trəˈdɪkt"
+  },
+  {
+    "id": "7",
+    "english": "Evoke",
+    "turkish": "Çağrıştırmak",
+    "description": "Bring or recall to the conscious mind.",
+    "pronunciation": "ɪˈvəʊk"
+  },
+  {
+    "id": "8",
+    "english": "Feasible",
+    "turkish": "Uygulanabilir",
+    "description": "Possible to do easily or conveniently.",
+    "pronunciation": "ˈfiː.zə.bəl"
+  },
+  {
+    "id": "9",
+    "english": "Implication",
+    "turkish": "İma",
+    "description": "The conclusion that can be drawn from something although it is not explicitly stated.",
+    "pronunciation": "ˌɪm.plɪˈkeɪ.ʃən"
+  },
+  {
+    "id": "10",
+    "english": "Subsequent",
+    "turkish": "Sonraki",
+    "description": "Coming after something in time; following.",
+    "pronunciation": "ˈsʌb.sɪ.kwənt"
+  },
+  {
+    "id": "11",
+    "english": "Vague",
+    "turkish": "Belirsiz",
+    "description": "Of uncertain, indefinite, or unclear character or meaning.",
+    "pronunciation": "veɪɡ"
+  },
+  {
+    "id": "12",
+    "english": "Hypothesis",
+    "turkish": "Hipotez",
+    "description": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+    "pronunciation": "haɪˈpɒθ.ə.sɪs"
+  },
+  {
+    "id": "13",
+    "english": "Legitimate",
+    "turkish": "Meşru",
+    "description": "Conforming to the law or to rules.",
+    "pronunciation": "ləˈdʒɪt.ɪ.mət"
+  },
+  {
+    "id": "14",
+    "english": "Quantify",
+    "turkish": "Miktarını belirlemek",
+    "description": "Express or measure the quantity of.",
+    "pronunciation": "ˈkwɒn.tɪ.faɪ"
+  },
+  {
+    "id": "15",
+    "english": "Rationale",
+    "turkish": "Gerekçe",
+    "description": "A set of reasons or a logical basis for a course of action or belief.",
+    "pronunciation": "ˌræʃ.əˈnɑːl"
+  },
+  {
+    "id": "16",
+    "english": "Simultaneous",
+    "turkish": "Eşzamanlı",
+    "description": "Occurring, operating, or done at the same time.",
+    "pronunciation": "ˌsɪm.əlˈteɪ.ni.əs"
+  },
+  {
+    "id": "17",
+    "english": "Consensus",
+    "turkish": "Oy birliği",
+    "description": "A general agreement.",
+    "pronunciation": "kənˈsen.səs"
+  },
+  {
+    "id": "18",
+    "english": "Arbitrary",
+    "turkish": "Keyfi",
+    "description": "Based on random choice or personal whim, rather than any reason or system.",
+    "pronunciation": "ˈɑː.bɪ.trər.i"
+  },
+  {
+    "id": "19",
+    "english": "Comprise",
+    "turkish": "Oluşmak",
+    "description": "Consist of; be made up of.",
+    "pronunciation": "kəmˈpraɪz"
+  },
+  {
+    "id": "20",
+    "english": "Depict",
+    "turkish": "Betimlemek",
+    "description": "Represent by a drawing, painting, or other art form.",
+    "pronunciation": "dɪˈpɪkt"
+  },
+  {
+    "id": "21",
+    "english": "Inherent",
+    "turkish": "Doğasında olan",
+    "description": "Existing in something as a permanent, essential, or characteristic attribute.",
+    "pronunciation": "ɪnˈher.ənt"
+  },
+  {
+    "id": "22",
+    "english": "Paradigm",
+    "turkish": "Model",
+    "description": "A typical example or pattern of something; a model.",
+    "pronunciation": "ˈpær.ə.daɪm"
+  },
+  {
+    "id": "23",
+    "english": "Preliminary",
+    "turkish": "Ön hazırlık",
+    "description": "Denoting an action or event preceding or done in preparation for something fuller or more important.",
+    "pronunciation": "prɪˈlɪm.ɪ.nər.i"
+  },
+  {
+    "id": "24",
+    "english": "Alleviate",
+    "turkish": "Hafifletmek",
+    "description": "Make (suffering, deficiency, or a problem) less severe.",
+    "pronunciation": "əˈliː.vi.eɪt"
+  },
+  {
+    "id": "25",
+    "english": "Attain",
+    "turkish": "Elde etmek",
+    "description": "Succeed in achieving (something that one desires and has worked for).",
+    "pronunciation": "əˈteɪn"
+  },
+  {
+    "id": "26",
+    "english": "Disparity",
+    "turkish": "Eşitsizlik",
+    "description": "A great difference.",
+    "pronunciation": "dɪˈspær.ə.ti"
+  },
+  {
+    "id": "27",
+    "english": "Encompass",
+    "turkish": "Kapsamak",
+    "description": "Surround and have or hold within.",
+    "pronunciation": "ɪnˈkʌm.pəs"
+  },
+  {
+    "id": "28",
+    "english": "Integral",
+    "turkish": "Bütünleyici",
+    "description": "Necessary to make a whole complete; essential or fundamental.",
+    "pronunciation": "ˈɪn.tɪ.ɡrəl"
+  },
+  {
+    "id": "29",
+    "english": "Proficient",
+    "turkish": "Yetenekli",
+    "description": "Competent or skilled in doing or using something.",
+    "pronunciation": "prəˈfɪʃ.ənt"
+  },
+  {
+    "id": "30",
+    "english": "Substantial",
+    "turkish": "Önemli",
+    "description": "Of considerable importance, size, or worth.",
+    "pronunciation": "səbˈstæn.ʃəl"
+  }
+]

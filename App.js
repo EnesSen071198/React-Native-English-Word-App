@@ -6,6 +6,8 @@ import A1ContentScreen from "./src/screens/A1ContentScreen";
 import A2ContentScreen from "./src/screens/A2ContentScreen";
 import B1ContentScreen from "./src/screens/B1ContentScreen";
 import B2ContentScreen from "./src/screens/B2ContentScreen";
+import C1ContentScreen from "./src/screens/C1ContentScreen";
+import C2ContentScreen from "./src/screens/C2ContentScreen";
 import IknowWord from "./src/components/IknowWord";
 import IwillLearn from "./src/components/IwillLearn";
 
@@ -20,6 +22,8 @@ const App = () => {
         <Stack.Screen name='A2Content' component={A2ContentScreen} />
         <Stack.Screen name='B1Content' component={B1ContentScreen} />
         <Stack.Screen name='B2Content' component={B2ContentScreen} />
+        <Stack.Screen name='C1Content' component={C1ContentScreen} />
+        <Stack.Screen name='C2Content' component={C2ContentScreen} />
         <Stack.Screen name='IknowWord' component={IknowWord} />
         <Stack.Screen name='IwillLearn' component={IwillLearn} />
       </Stack.Navigator>
