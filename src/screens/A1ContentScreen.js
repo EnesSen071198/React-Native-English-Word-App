@@ -13,12 +13,9 @@ import Animated, {
   useSharedValue,
   withTiming
 } from "react-native-reanimated";
-import * as Speech from "expo-speech"; // Expo Speech API
+import * as Speech from "expo-speech";
 import { useNavigation } from "@react-navigation/native";
-
-import A1Words from "../data/A1Words.json"; // JSON dosyasını buradan alıyoruz
-import IknowWord from "../components/IknowWord";
-import IwillLearn from "../components/IwillLearn";
+import A1Words from "../data/A1Words.json";
 import Background from "../assets/background.jpg";
 
 const RegularContent = ({ word }) => {
